@@ -1,2 +1,6 @@
 # AndroidThingsPIR
-PIR and LAPM sample for Android Things
+PIR and LAMP sample for Android Things
+======================================
+
+
+![Schematics for Raspberry Pi 3](common_shema.png)
