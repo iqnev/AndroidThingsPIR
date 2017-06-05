@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidThingsPIR</string>
+    <string name="title_activity_pir">PIRActivity</string>
+</resources>
